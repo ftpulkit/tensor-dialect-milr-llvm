@@ -196,3 +196,5 @@ lowering stage, and timing each pass. The output is also saved to
 Written from scratch for CD (Compiler Design) Assignment 10. Uses the
 public MLIR 18 APIs. No upstream MLIR code is copied — only included
 from the installed headers.
+# tensor-dialect-final
+# tensor-dialect-final

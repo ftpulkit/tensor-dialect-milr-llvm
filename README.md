@@ -320,6 +320,11 @@ Type `END` on its own line when done. Then choose which lowering stage
 
 ---
 
+<img width="1306" height="1005" alt="image" src="https://github.com/user-attachments/assets/d6af8605-5015-4657-8350-f3e252ba56e7" />
+<img width="968" height="960" alt="image" src="https://github.com/user-attachments/assets/5c6e602e-f297-4f14-b6eb-b17c975f21b0" />
+<img width="1490" height="743" alt="image" src="https://github.com/user-attachments/assets/3e702836-4ad4-430a-9671-f3747e8f4b18" />
+
+
 ## 8. Test cases
 
 | # | File | What it tests | Pass condition |

@@ -91,6 +91,7 @@ This project builds that idea from scratch on a small, self-contained example:
   │  Stage 3 — llvm dialect  (machine-level, ready for LLVM backend) │
   └─────────────────────────────────────────────────────────────────┘
 ```
+As suggested by the Faculty, Manual inputs in Cpp language can too be given in the compiler.
 
 This mirrors exactly what production compilers do:
 
